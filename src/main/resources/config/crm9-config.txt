@@ -1,0 +1,5 @@
+﻿#数据库链接
+mysql.jdbcUrl = jdbc:mysql://127.0.0.1:3306/72crm?characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull&tinyInt1isBit=false
+mysql.user = root
+mysql.password = root
+jfinal.devMode = true
